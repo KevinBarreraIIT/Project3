@@ -82,3 +82,8 @@ h3 {
 	color: #7000A5;
 	text-decoration: underline;
 }
+#map {
+	height: 940px;
+	width: 100%;
+}
+
