@@ -206,7 +206,13 @@ h3 {
 .mySlides {
 	display: none;
 }
-#slide img {
+#slide1 img {
+	width: 100%
+ }
+ #slide2 img {
+	width: 100%
+ }
+ #slide3 img {
 	width: 100%
  }
 .prev, .next {
